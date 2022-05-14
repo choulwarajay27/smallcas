@@ -1,0 +1,14 @@
+.gradle/**
+# .idea/.gitignore
+# .idea/compiler.xml
+# .idea/gradle.xml
+# .idea/jarRepositories.xml
+# .idea/misc.xml
+# .idea/vcs.xml
+.idea/.gitignore
+**/compiler.xml
+**/gradle.xml
+**/jarRepositories.xml
+**/misc.xml
+**/vcs.xml
+**/encodings.xml
