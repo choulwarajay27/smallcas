@@ -7,6 +7,7 @@
 .idea/vcs.xml
 .idea/workspace.xml
 
+.gradle/7.4/**
 .idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_2.xml
 .idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_8_1.xml
 .idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml
